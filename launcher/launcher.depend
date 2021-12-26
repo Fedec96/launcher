@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1606116738 source:c:\users\mbm126\documents\launcher\icon.rc
+
+1606117081 source:c:\users\mbm126\documents\launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606117015 source:c:\users\mbm126\documents\launcher\version.rc
+
+1606117476 source:c:\users\mbm126\documents\launcher\resources.rc
+	<windows.h>
+	"version.h"
+
+1606117692 c:\users\mbm126\documents\launcher\version.h
+
+1640518636 source:c:\users\federico cappelletti\documents\codeblocks\launcher\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1640518627 source:c:\users\federico cappelletti\documents\codeblocks\launcher\resources.rc
+	<windows.h>
+	"version.h"
+
+1639563233 c:\users\federico cappelletti\documents\codeblocks\launcher\version.h
+
